@@ -68,3 +68,11 @@ TLS traffic was observed during the capture. TLS is used to provide encrypted co
 
 This project helped me understand how DNS, TCP, UDP, and TLS protocols appear in real network traffic and how Wireshark can be used to analyze network communication.
 
+## What I Learned
+
+- Learned how to capture network traffic using Wireshark.
+- Learned how DNS resolves domain names.
+- Understood the TCP three-way handshake.
+- Learned how UDP communication appears in network traffic.
+- Understood the role of TLS in encrypted communication.
+
